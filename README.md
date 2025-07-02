@@ -2,7 +2,7 @@
 An interactive dashboard created on Tableau that shows offensive metrics for a filtered NBA team for the 2024-25 Regular Season!
 
 ## 🚀 Live Link
-👉 https://public.tableau.com/app/profile/drew.knapp/viz/NBA2024-2025Analysis_17491431322840/FINAL_DASHBOARD#1 
+👉 [Tableau Dashboard Link - Click Me!](https://public.tableau.com/app/profile/drew.knapp/viz/NBA2024-2025Analysis_17491431322840/2024-25Dashboard)
 
 ## 🔧 Built With
 - Tableau Public
