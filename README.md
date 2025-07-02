@@ -11,3 +11,6 @@ An interactive dashboard created on Tableau that shows offensive metrics for a f
 
 ## Summary 📊
 This interactive dashboard aims to highlight key statistics, trends, and insights about each NBA Team's season on the offensive side of the ball. Users can filter for one team at a time to see how each team performed in the 2024-25 Regular Season. The dashboard tells stories about how the team's offense performed as the season progressed, what players led the team in scoring and assists, how turnovers and assists impacted game results, and much more! (Disclaimer: This dashboard is best viewed on a desktop screen size!)
+
+## Data Collection Process ⛏️
+The data used for this dashboard was pulled from [nba_api](https://github.com/swar/nba_api/tree/master) using Python scripts to create CSV files of the data I needed. Then, I opened these CSVs in Excel and transformed them using Power Query. Once I was finished transforming and getting all the data I needed, I connected these Excel files to Tableau and created relationships between them. These Python scripts, CSVs, and Excel files are all included in this repository!
